@@ -1,0 +1,23 @@
+button{
+    width: 200px;
+    height:30px;
+    border-radius: 10px;
+    color: rgb(227, 227, 227);
+    background-color: rgb(8, 12, 253);
+    font-size: large;
+    font-weight: 100;
+}
+div{
+    text-align: center;
+    border:2px solid black;
+   
+}
+input{
+    width: 200px;
+    height:30px;
+    border-radius: 10px;
+}
+p{
+    font-size: larger;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
